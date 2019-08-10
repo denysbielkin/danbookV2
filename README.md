@@ -1,3 +1,5 @@
+** PROJECT IN PROGRESS **
+
 This is remake of my first real project
 
 to launch the project:
